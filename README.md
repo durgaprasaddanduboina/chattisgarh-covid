@@ -1,1 +1,7 @@
-# chattisgarh-covid
+# CoVer
+
+## Setup
+
+```
+npm i && npm start
+```
